@@ -6,6 +6,11 @@ body {
     margin: 0;
 }
 
+a {
+    color: #b58d5d;
+    text-decoration: none;
+}
+
 /* Começo do header */
 .header {
     width: 100%;

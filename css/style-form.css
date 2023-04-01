@@ -1,15 +1,25 @@
+.banner {
+    height: 712px;
+}
+
 .form {
     background-color: #cdcdcd;
     display: flex;
+    align-items: center;
     flex-direction: column;
     padding: 20px 60px;
     color: #db7093;
     border-radius: 5px;
 }
 
+
+
 .label {
+    width: 100%;
     font-size: 20px;
     margin: 0;
+    display: flex;
+    align-items: flex-start;
 }
 
 input {
@@ -17,6 +27,7 @@ input {
     border-radius: 10px;
     margin-bottom: 10px;
     text-align: center;
+    width: 100%;
 }
 
 button {
